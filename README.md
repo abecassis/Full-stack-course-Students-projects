@@ -5,4 +5,11 @@
 Member | Projects
 ------------ | -------------
 @MichalYosef1 | https://github.com/MichalYosef/end-to-end-movies-project <br> https://github.com/MichalYosef/end-to-end-movies-project
-@kob-e| Content in the second column
+@alon121 | Content 
+@danilivshiz | Content 
+@zvimoe | Content
+@ElenaKru | Content 
+@chani99 | Content 
+@judith435 | Content 
+@faigysnow | Content
+@AsherFleisher | Content
