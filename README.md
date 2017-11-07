@@ -3,7 +3,7 @@
 
 
 Member | Projects | Stack overflow Questions
------------- | -------------
+------------ | ------------- | -------------
 @MichalYosef1 | https://github.com/MichalYosef/end-to-end-movies-project <br> https://github.com/MichalYosef/end-to-end-movies-project | question
 @alon121 | Content | question
 @danilivshiz | Content | question
