@@ -4,7 +4,7 @@
 
 Member | Projects | Stack overflow Questions
 ------------ | ------------- | -------------
-@MichalYosef1 | [end-to-end-movies-project](https://github.com/MichalYosef/end-to-end-movies-project) <br> [end-to-end-movies-project](https://github.com/MichalYosef/end-to-end-movies-project)| question
+@MichalYosef | [end-to-end-movies-project](https://github.com/MichalYosef/end-to-end-movies-project) <br> [end-to-end-movies-project](https://github.com/MichalYosef/end-to-end-movies-project)| question
 @alon121 | Content | question
 @danilivshiz | Content | question
 @zvimoe | Content| question
