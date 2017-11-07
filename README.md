@@ -15,8 +15,8 @@ Member | Projects | Stack overflow Questions
 @AsherFleisher | Content| question
 
 
-Member | Projects
------------- | -------------
+Member | Projects | Stack overflow Questions
+------------ | ------------- | -------------
 @kfirlevy93 | Content| question
 
 
